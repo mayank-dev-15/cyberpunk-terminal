@@ -105,3 +105,8 @@ This project is licensed under the MIT License.
 ---
 
 *Built with ❤️ by [Mayank Basena](https://github.com/mayank-dev-15) · 15 · GSoC 2027 Aspirant*
+
+
+## Acknowledgments
+
+Thanks to all contributors and the open-source community for inspiration.
